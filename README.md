@@ -22,3 +22,5 @@ That's something you can't do with forEach() because, as you might guess, it ret
 .filter() checks every element in an array to see if it meets a certain criteria and returns a new array with the elements that return truthy for the criteria.
 
 The filter() method is an ES6 method that provides a cleaner syntax to filter through an array. It returns new elements in a new array without altering the original array.
+
+map() does not change the original array.
